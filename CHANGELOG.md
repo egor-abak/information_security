@@ -1,6 +1,8 @@
 # 2.0.0
+## chore:
+- updated changelog and version
 ## docs: 
--added versions and changelog files
+- added documentation for lab_02
 ## feat:
 - added lab_02 report and pres
 
@@ -14,6 +16,6 @@
 ## fix: 
 - modified README and added archive with images from lab_01
 ## docs: 
--added versions and changelog files
+- added versions and changelog files
 ## feat:
 - added lab_01 report and pres
