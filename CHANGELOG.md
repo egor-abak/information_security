@@ -1,3 +1,9 @@
+# 2.0.0
+## docs: 
+-added versions and changelog files
+## feat:
+- added lab_02 report and pres
+
 # 1.1.0
 ## docs:
 - added templates docs for the report
