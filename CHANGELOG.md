@@ -1,3 +1,7 @@
+# 1.1.0
+## docs:
+- added templates docs for the report
+
 # 1.0.0 
 ## chore:
 - added license file and updated related documentation
