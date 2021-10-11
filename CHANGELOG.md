@@ -1,4 +1,12 @@
+# 3.0.0
+## docs:
+- lab_03 documentation uploaded
+## feat:
+- lab_03 added
+
 # 2.0.0
+## chore:
+- minor fix
 ## chore:
 - updated changelog and version
 ## docs: 
