@@ -1,3 +1,9 @@
+# 7.0.0
+## docs:
+- lab_07 documentation added; updated general info
+## feat: 
+- lab_07 added
+
 # 6.0.0
 ## docs:
 - lab_06 documentation added; updated general info
