@@ -1,4 +1,12 @@
+# 8.0.0
+## docs:
+- lab_08 documentation added; updated general info
+## feat: 
+- lab_08 added
+
 # 7.0.0
+## feat:
+- added report files
 ## docs:
 - lab_07 documentation added; updated general info
 ## feat: 
